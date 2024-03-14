@@ -11,7 +11,7 @@ const sounds = {
     'f' : document.querySelector('#s4'),
     'g' : document.querySelector('#s5')
     
-}
+}//asadsda
 
 addEventListener('keypress', (ev)=>{
     //console.log('keypress')
